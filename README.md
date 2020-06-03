@@ -111,4 +111,5 @@ Sources
 https://techjury.net/stats-about/elearning/
 https://blog.coinbase.com/coinbase-reports-black-americans-crypto-97e54cc89f84
 https://www.forbes.com/sites/shamahyder/2017/06/30/what-the-minority-market-wants-you-to-know-about-marketing-to-them/#24456bb27635
+
 #SimplyCryptocurrency #GodFamilyBusiness #PerceptForm 
