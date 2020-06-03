@@ -12,18 +12,22 @@ Problem
 
 
 Lack of Educational Structures
+
 The decentralized world of cryptocurrency is hungry for growth yet it can only take place if mass adoption is a reality. Mass adoption will only occur if the market at large deems a crypto project or tool as useful and they understand it. Many blockchain companies are creating technology but forgetting about education, which will empower those who use technology to understand. 
 
 
 Lack of Financial Literacy
+
 During the time of 2017 when Bitcoin went mainstream, there were reports of people mortgaging their homes to get in on the bull run. When the market crashed in 2018, many lost everything. I believe that having an understanding of centralized financial concepts will only aid in having a greater understanding of decentralized concepts. Many companies in the cryptocurrency space are missing this.
 
 
 Lack of Swift Application 
+
 There are many projects that aim to be the most technical and Simply Cryptocurrency does not want to be that because what is revered in the communities of the cyberpunks is dust under the feet of the masses. People will not care about cryptocurrency until cryptocurrency is positioned to aid the masses. 
 
 
 Lack of Representation
+
 In times like these, it’s easy to see that minorities are more user than owner or producer. We wish to change the narrative by empowering our own. Upon value being communicated in a way that is not above them but right on the level with where they are, minorities are loyal subscribers, patrons and customers. On top of all of this, they benefit most from blockchain technology yet are the furthest from it. Simply Cryptocurrency desires to change all of this. With this in mind, Simply Cryptocurrency will not ostracize its platform to exclusively people of color.
 
 
@@ -45,10 +49,15 @@ Contract: 0xC26b9ef52bEC1EF53176297f7D9256c547dac9D9
 PCTO Address: 0xeE9E97856646e336d6f8267299180B065DAF6799
 
 Token Name: Simply Crypto | Token Symbol: PCTO | Decimals: 3
+
 Token Type: ERC20 | Token Rate: 333 PCTO = 1 ETH
+
 Total Supply: 100,000,000,000 PCTO
+
 Hard Cap: 66,000,000,000 PCTO
+
 Start Date & Time: 2020-05-21 & 15:33
+
 Finish Date & Time: 2020-08-21 & 15:33
 
 Bonuses
