@@ -1,5 +1,5 @@
-# simplycrypto
-The Source Code of the Simply Crypto Token Contract 
+# simplycryptocurrencytoken
+The Simply Cryptocurrency Token Contract 
 
 An Educational Platform Empowering The Underserved
 
